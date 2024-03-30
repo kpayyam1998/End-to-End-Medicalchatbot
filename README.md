@@ -19,4 +19,8 @@ Notebook:
     
     Create onebook just for implementation
 
+Model link 
+
+    https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
 
