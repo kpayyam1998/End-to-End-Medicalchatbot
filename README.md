@@ -22,5 +22,12 @@ Notebook:
 Model link 
 
     https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+    Download and put it in your local folder
+
+PINECONE:
+    
+    create pinecone api key and index 
+    https://www.pinecone.io/
+
 
 
