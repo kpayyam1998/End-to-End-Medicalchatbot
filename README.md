@@ -29,5 +29,11 @@ PINECONE:
     create pinecone api key and index 
     https://www.pinecone.io/
 
+Project Implementation 
+
+    1. Load the data such  as text,.docx,.pdf etc....
+    
+    2. Create chunks our data so that we can pass to the model 
+
 
 
