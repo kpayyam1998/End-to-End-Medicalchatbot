@@ -35,5 +35,22 @@ Project Implementation
     
     2. Create chunks our data so that we can pass to the model 
 
+    3. Split data and Get Chunks
+
+    4. Embedding
+
+        During pinecone vectorDB time you may face error. that  you have to import
+
+            from langchain_pinecone.vectorstores import Pinecone as pc_index
+
+            or else gothrough Langchain from_text 
+
+            https://python.langchain.com/docs/integrations/retrievers/self_query/pinecone#creating-a-pinecone-index
+
+            This is the page i referred to solve my problem
+
+Note :
+    Dont forget to set Environment variables and restart your machine
+            
 
 
