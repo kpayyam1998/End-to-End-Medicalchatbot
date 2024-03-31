@@ -51,6 +51,10 @@ Project Implementation
 
 Note :
     Dont forget to set Environment variables and restart your machine
-            
+
+    set PINECONE_API_KEY 
+    set OPENAI_API_KEY
+
+    you may get error When you try to connect Pinecone. please gothrought their documentation before connect DB
 
 
